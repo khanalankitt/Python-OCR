@@ -27,7 +27,7 @@ current_campus = ""
 
 # Regular expression patterns
 # Updated regex to handle both cases: with or without space between number and campus name
-campus_pattern = re.compile(r"^\d+\.\s?(.*)")  # Match both "4. Campus Name" and "4.Campus Name"
+campus_pattern = re.compile(r"^\d+\.\s?(.*)")  
 
 symbol_pattern = re.compile(r"\b79\d{6}\b")  # Pattern for symbol numbers starting with "79"
 

@@ -1,84 +1,54 @@
-aT T14Ta14 , 5TetT  PTTCT: 0
-fafa: 0
-7?Q7 ,: 0
-ACT 4QaFT  #IaT 'ITAAFT 7T: 0
-t: 0
-t8tr<: 0
-: 0
-T   9A8nmAT: 0
-R 44 77IT T6 +4E f4IF T4 HHT 4faft *e 44 *4 %IE: 0
-Patan Multiple CampusPatandhoka: 0
-/078: 0
-/077: 0
-/076: 0
-Amrit Campus_Lainchaur: 0
-o4t: 0
-/075: 0
-Bhaktapur _Multiple Campus: 0
-Padmakanya Multiple Campus: 0
-St Xavier's College: 0
-Kathford International College of Engineering and Management: 0
-New Summit College: 0
-/074: 0
-nX: 0
-Prime College: 0
-StLawrence College: 0
-/073: 0
-College of Applied Business and Techuology: 0
-Kathmandu_BernHardt College: 0
-Deerwalk Institute of Technology: 0
-Vedas College: 0
-Texas International College: 0
-Ambition College: 0
-National College of Computer_Studies: 0
-Orchid International College: 0
-Sagarmatha College of Science & Technology: 0
-Nagariuna College of Information Technology: 0
-Academia International College: 0
-Himalaya College of Engineering: 0
-Asian_School of Management and Technology: 0
-Madan Bhandari Memorial College: 0
-Nepalaya College: 0
-Asian College of Higher_Studies: 0
-Trinity International College: 0
-Samriddhi College: 0
-Swastik College: 0
-Kathmandu College of Technology: 0
-NIST: 0
-Siddhanath Science CampusMahendranagar: 0
-Ramswaru _Ramsagar Multiple Campus_Janakpur: 0
-Mechi Multiple Campus_Bhadrapur_Jhapa: 0
-Shreeyantra CollegeDamak: 0
-Central Campus of TechnologyDharan: 0
-Birendra Memorial CollegeDharan: 0
-Godawari CollegeItahari: 0
-Mahendra Morang Adarsh Multiple Campus_Biratnaqar: 0
-Birat Kshitiz CollegeBiratnagar: 0
-Nihareeka CollegeBiratnagar: 0
-LBirat Multiple CollegeBiratnagar: 0
-AIMS CollegeBiratnagar: 0
-Himalaya Darshan CollegeBiratnagar: 0
+Patan Multiple CampusPatandhoka: 82
+Amrit Campus_Lainchaur: 83
+Bhaktapur _Multiple Campus: 103
+St Xavier's College: 43
+Kathford International College of Engineering and Management: 34
+New Summit College: 31
+Prime College: 20
+StLawrence College: 7
+College of Applied Business and Techuology: 14
+Kathmandu_BernHardt College: 28
+Deerwalk Institute of Technology: 29
+Vedas College: 7
+Texas International College: 25
+Ambition College: 7
+National College of Computer_Studies: 32
+Orchid International College: 35
+Sagarmatha College of Science & Technology: 13
+Nagariuna College of Information Technology: 17
+Academia International College: 16
+Himalaya College of Engineering: 15
+Asian_School of Management and Technology: 33
+Madan Bhandari Memorial College: 41
+Nepalaya College: 5
+Asian College of Higher_Studies: 33
+Trinity International College: 28
+Samriddhi College: 22
+Swastik College: 14
+Kathmandu College of Technology: 13
+NIST: 20
+Siddhanath Science CampusMahendranagar: 15
+Ramswaru _Ramsagar Multiple Campus_Janakpur: 46
+Shreeyantra CollegeDamak: 6
+Central Campus of TechnologyDharan: 14
+Birendra Memorial CollegeDharan: 3
+Godawari CollegeItahari: 26
+Birat Kshitiz CollegeBiratnagar: 3
+Nihareeka CollegeBiratnagar: 24
+AIMS CollegeBiratnagar: 3
+Himalaya Darshan CollegeBiratnagar: 10
 National Infotech: 0
-Hetauda City CollegeHetauda: 0
-Birendra Multiple Campus_Bharatpur: 0
-Chitwan College of Technology Bharatpur_Chitwan: 0
-Lumbii ICT CampusGaindakot: 0
-Prithvi Narayan Campus_Pokhara: 0
-Mount Annapurna Campus_Pokhara: 0
-x: 0
-Soch College of IT_Pokhara: 0
-Butwal Multiple Campus_Butwal: 0
-Lumbini City College Butwal: 0
-Nepathya CollegeButwal: 0
-Bhairahawa Multiple CampusRupandehi: 0
-Mahendra Multiple Campus_Nepalguni: 0
-o(*: 0
-Banke Bageshwori Campus_Nepalguni: 0
-Nepalguni Campus_Nepalguwi: 0
-Mahendra Multiple Campus_Dang: 0
-Ambikeshwari Campus: 0
-R1f815: 0
-PTRTF: 0
-Gfvya €& & FH ?59 8JR Wfat < #.: 0
-E14e; &T: 0
-O: 0
+Hetauda City CollegeHetauda: 19
+Birendra Multiple Campus_Bharatpur: 50
+Chitwan College of Technology Bharatpur_Chitwan: 40
+Prithvi Narayan Campus_Pokhara: 45
+Mount Annapurna Campus_Pokhara: 7
+Soch College of IT_Pokhara: 9
+Butwal Multiple Campus_Butwal: 56
+Lumbini City College Butwal: 12
+Nepathya CollegeButwal: 36
+Mahendra Multiple Campus_Nepalguni: 8
+Banke Bageshwori Campus_Nepalguni: 4
+Nepalguni Campus_Nepalguwi: 1
+Mahendra Multiple Campus_Dang: 5
+Ambikeshwari Campus: 18
