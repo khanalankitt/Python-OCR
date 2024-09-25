@@ -1,6 +1,5 @@
 I am trying to create a python program that extracts text from a pdf of scanned images and manipulates the extracted text.
-The main idea is to extract the symbol numbers from the result.pdf file and write the number of symbol numbers that starts with 79 for each corresponding college in the 
-final.txt file.
+The main idea is to extract the symbol numbers from the result.pdf file and write the number of symbol numbers that starts with 79 for each corresponding college in the final.txt file.
 
 If you open the final.txt file, you can see the code works and the count of the symbol numbers starting with 79 for the corresponding college is written in the file.
 But there is a small problem.
@@ -19,7 +18,7 @@ This is actually the sum of Ramswarup Campus(19) and Mechi Multiple Campus(27)(m
 
 I cannot solve this problem.
 
-Now what I analyzed and found is, a space {" "} may be thg culprit here.(yes a missing space)
+Now what I analyzed and found is, a space {" "} may be the culprit here (yes a missing space)
 If you see the result.pdf file, for every college that is missing, a space is missing between the dot and the first letter of the campus name.
 ![image](https://github.com/user-attachments/assets/c2c0855a-5222-45fa-9415-6e04266b4f60)
 ![image](https://github.com/user-attachments/assets/aade5f85-72a7-43d1-8310-001fd3d83196)
