@@ -24,12 +24,14 @@ I cannot solve this problem.
 
 Now what I analyzed and found is, a space {" "} may be the culprit here (yes a missing space)
 If you see the result.pdf file, for every college that is missing, a space is missing between the dot and the first letter of the campus name.
+
 ![image](https://github.com/user-attachments/assets/c2c0855a-5222-45fa-9415-6e04266b4f60)
 ![image](https://github.com/user-attachments/assets/aade5f85-72a7-43d1-8310-001fd3d83196)
 
 As seen in the image above, there is no space between the dot and the first letter of the campus name.
 
 All the other places where there is a space, the code works well and expected result is written in the final.txt file.
+
 ![image](https://github.com/user-attachments/assets/1e9565fb-7ad9-4e7d-aaae-a37b7d414e39)
 
 
