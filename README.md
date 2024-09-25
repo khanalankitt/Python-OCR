@@ -1,4 +1,8 @@
 I am trying to create a python program that extracts text from a pdf of scanned images and manipulates the extracted text.
+
+Since the pdf is a pdf of scanned images, I used EasyOCR to extract the text from the images.
+The pdf file is converted to images by using pdf2image.
+
 The main idea is to extract the symbol numbers from the result.pdf file and write the number of symbol numbers that starts with 79 for each corresponding college in the final.txt file.
 
 If you open the final.txt file, you can see the code works and the count of the symbol numbers starting with 79 for the corresponding college is written in the file.
