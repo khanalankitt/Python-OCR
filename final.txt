@@ -1,54 +1,60 @@
-Patan Multiple CampusPatandhoka: 82
-Amrit Campus_Lainchaur: 83
-Bhaktapur Multiple Campus: 103
-St Xavier's College: 43
+Patan Multiple Campus: 82
+Amrit Campus: 83
+Bhaktapur Multiple Campus: 47
+Padmakanya Multiple Campus: 56
+St. Xavier's College: 43
 Kathford International College of Engineering and Management: 34
 New Summit College: 31
 Prime College: 20
-StLawrence College: 7
-College of Applied Business and Techuology: 14
-Kathmandu_BernHardt College: 28
-Deerwalk Institute_of Technology: 29
+St. Lawrence College: 7
+College of Applied Business and Technology: 14
+Kathmandu BernHardt College: 28
+Deerwalk Institute of Technology: 29
 Vedas College: 7
-Texas _International College: 25
+Texas International College: 25
 Ambition College: 7
-National College of Computer_Studies: 32
+National College of Computer Studies: 32
 Orchid International College: 35
 Sagarmatha College of Science & Technology: 13
-Nagariuna College of Information Technology: 17
+Nagarjuna College of Information Technology: 17
 Academia International College: 16
 Himalaya College of Engineering: 15
-Asian_School of Management and Technology: 33
+Asian School of Management and Technology: 33
 Madan Bhandari Memorial College: 41
 Nepalaya College: 5
-Asian College of Higher_Studies: 33
+Asian College of Higher Studies: 33
 Trinity International College: 28
 Samriddhi College: 22
 Swastik College: 14
 Kathmandu College of Technology: 13
 NIST: 20
-Siddhanath Science CampusMahendranagar: 15
-Ramswaru Ramsagar Multiple Campus_Janakpur: 46
-Shreeyantra CollegeDamak: 6
-Central Campus of TechnologyDharan: 14
-Birendra Memorial CollegeDharan: 3
-Godawari CollegeItahari: 26
-Birat Kshitiz CollegeBiratnagar: 3
-Nihareeka CollegeBiratnagar: 24
-AIMS CollegeBiratnagar: 3
-Himalaya Darshan CollegeBiratnagar: 10
+Siddhanath Science Campus: 15
+Ramswaru Ramsagar Multiple Campus: 19
+Mechi Multiple Campus: 27
+Shreeyantra College: 6
+Central Campus of Technology: 14
+AIMS College: 3
+Birendra Memorial College: 3
+Godawari College: 10
+Mahendra Morang Adarsh Multiple Campus: 16
+Birat Kshitiz College: 3
+Nihareeka College: 12
+Birat Multiple College: 12
+Himalaya Darshan College: 10
 National Infotech: 0
-Hetauda City CollegeHetauda: 19
-Birendra Multiple Campus_Bharatpur: 50
-Chitwan College of Technology Bharatpur_Chitwan: 40
-Prithvi Narayan Camus_Pokhara: 45
-Mount Annapurna Campus_Pokhara: 7
-Soch College of IT_Pokhara: 9
-Butwal Multiple Campus_Butwal: 56
-Lumbini City College Butwal: 12
-Nepathya CollegeButwal: 36
-Mahendra Multiple Campus_Nepalguni: 8
-Banke Bageshwori Campus_Nepalguni: 4
-Nepalguni Campus_Nepalguni: 1
-Mahendra Multiple Campus_Dang: 5
+Hetauda City College: 19
+Birendra Multiple Campus: 50
+Chitwan College of Technology: 10
+Lumbini ICT Campus: 30
+Prithvi Narayan Campus: 45
+Mount Annapurna Campus: 7
+Soch College of IT: 9
+Butwal Multiple Campus: 56
+Lumbini City College: 12
+Nepathya College: 27
+Bhairahawa Multiple Campus: 9
+Mahendra Multiple Campus, Nepalgunj: 8
+Banke Bageshwori Campus, Nepalgunj: 4
+Nepalgunj Campus: 1
+Mahendra Multiple Campus, Dang: 5
 Ambikeshwari Campus: 18
