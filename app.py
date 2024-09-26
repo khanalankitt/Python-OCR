@@ -68,6 +68,6 @@ with open(extracted_text_file, 'w') as extracted_file:
 with open(final_result_file, 'w') as f:
     for campus, count in campus_counts.items():
         f.write(f'{campus}: {count}\n')
-print(campus_counts)
+
 print(f'Counts saved to {final_result_file}')
 print(f'All extracted text saved to {extracted_text_file}')
