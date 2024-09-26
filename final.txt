@@ -1,6 +1,6 @@
 Patan Multiple CampusPatandhoka: 82
 Amrit Campus_Lainchaur: 83
-Bhaktapur _Multiple Campus: 103
+Bhaktapur Multiple Campus: 103
 St Xavier's College: 43
 Kathford International College of Engineering and Management: 34
 New Summit College: 31
@@ -8,9 +8,9 @@ Prime College: 20
 StLawrence College: 7
 College of Applied Business and Techuology: 14
 Kathmandu_BernHardt College: 28
-Deerwalk Institute of Technology: 29
+Deerwalk Institute_of Technology: 29
 Vedas College: 7
-Texas International College: 25
+Texas _International College: 25
 Ambition College: 7
 National College of Computer_Studies: 32
 Orchid International College: 35
@@ -28,7 +28,7 @@ Swastik College: 14
 Kathmandu College of Technology: 13
 NIST: 20
 Siddhanath Science CampusMahendranagar: 15
-Ramswaru _Ramsagar Multiple Campus_Janakpur: 46
+Ramswaru Ramsagar Multiple Campus_Janakpur: 46
 Shreeyantra CollegeDamak: 6
 Central Campus of TechnologyDharan: 14
 Birendra Memorial CollegeDharan: 3
@@ -41,7 +41,7 @@ National Infotech: 0
 Hetauda City CollegeHetauda: 19
 Birendra Multiple Campus_Bharatpur: 50
 Chitwan College of Technology Bharatpur_Chitwan: 40
-Prithvi Narayan Campus_Pokhara: 45
+Prithvi Narayan Camus_Pokhara: 45
 Mount Annapurna Campus_Pokhara: 7
 Soch College of IT_Pokhara: 9
 Butwal Multiple Campus_Butwal: 56
@@ -49,6 +49,6 @@ Lumbini City College Butwal: 12
 Nepathya CollegeButwal: 36
 Mahendra Multiple Campus_Nepalguni: 8
 Banke Bageshwori Campus_Nepalguni: 4
-Nepalguni Campus_Nepalguwi: 1
+Nepalguni Campus_Nepalguni: 1
 Mahendra Multiple Campus_Dang: 5
 Ambikeshwari Campus: 18
