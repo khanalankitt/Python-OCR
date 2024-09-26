@@ -1,60 +1,60 @@
-Patan Multiple Campus: 82
-Amrit Campus: 83
-Bhaktapur Multiple Campus: 47
-Padmakanya Multiple Campus: 56
-St. Xavier's College: 43
-Kathford International College of Engineering and Management: 34
-New Summit College: 31
-Prime College: 20
-St. Lawrence College: 7
-College of Applied Business and Technology: 14
-Kathmandu BernHardt College: 28
-Deerwalk Institute of Technology: 29
-Vedas College: 7
-Texas International College: 25
-Ambition College: 7
-National College of Computer Studies: 32
-Orchid International College: 35
-Sagarmatha College of Science & Technology: 13
-Nagarjuna College of Information Technology: 17
-Academia International College: 16
-Himalaya College of Engineering: 15
-Asian School of Management and Technology: 33
-Madan Bhandari Memorial College: 41
-Nepalaya College: 5
-Asian College of Higher Studies: 33
-Trinity International College: 28
-Samriddhi College: 22
-Swastik College: 14
-Kathmandu College of Technology: 13
-NIST: 20
-Siddhanath Science Campus: 15
-Ramswaru Ramsagar Multiple Campus: 19
-Mechi Multiple Campus: 27
-Shreeyantra College: 6
-Central Campus of Technology: 14
-AIMS College: 3
-Birendra Memorial College: 3
-Godawari College: 10
-Mahendra Morang Adarsh Multiple Campus: 16
-Birat Kshitiz College: 3
-Nihareeka College: 12
-Birat Multiple College: 12
-Himalaya Darshan College: 10
-National Infotech: 0
-Hetauda City College: 19
-Birendra Multiple Campus: 50
-Chitwan College of Technology: 10
-Lumbini ICT Campus: 30
-Prithvi Narayan Campus: 45
-Mount Annapurna Campus: 7
-Soch College of IT: 9
-Butwal Multiple Campus: 56
-Lumbini City College: 12
-Nepathya College: 27
-Bhairahawa Multiple Campus: 9
-Mahendra Multiple Campus, Nepalgunj: 8
-Banke Bageshwori Campus, Nepalgunj: 4
-Nepalgunj Campus: 1
-Mahendra Multiple Campus, Dang: 5
-Ambikeshwari Campus: 18
+Patan Multiple Campus: 82 (56.94%)
+Amrit Campus: 83 (57.64%)
+Bhaktapur Multiple Campus: 47 (65.28%)
+Padmakanya Multiple Campus: 56 (77.78%)
+St. Xavier's College: 43 (89.58%)
+Kathford International College of Engineering and Management: 34 (70.83%)
+New Summit College: 31 (64.58%)
+Prime College: 20 (41.67%)
+St. Lawrence College: 7 (19.44%)
+College of Applied Business and Technology: 14 (38.89%)
+Kathmandu BernHardt College: 28 (58.33%)
+Deerwalk Institute of Technology: 29 (60.42%)
+Vedas College: 7 (14.58%)
+Texas International College: 25 (52.08%)
+Ambition College: 7 (19.44%)
+National College of Computer Studies: 32 (66.67%)
+Orchid International College: 35 (72.92%)
+Sagarmatha College of Science & Technology: 13 (27.08%)
+Nagarjuna College of Information Technology: 17 (47.22%)
+Academia International College: 16 (33.33%)
+Himalaya College of Engineering: 15 (31.25%)
+Asian School of Management and Technology: 33 (68.75%)
+Madan Bhandari Memorial College: 41 (85.42%)
+Nepalaya College: 5 (13.89%)
+Asian College of Higher Studies: 33 (68.75%)
+Trinity International College: 28 (58.33%)
+Samriddhi College: 22 (45.83%)
+Swastik College: 14 (38.89%)
+Kathmandu College of Technology: 13 (36.11%)
+NIST: 20 (55.56%)
+Siddhanath Science Campus: 15 (20.83%)
+Ramswaru Ramsagar Multiple Campus: 19 (26.39%)
+Mechi Multiple Campus: 27 (75.00%)
+Shreeyantra College: 6 (12.50%)
+Central Campus of Technology: 14 (38.89%)
+AIMS College: 3 (8.33%)
+Birendra Memorial College: 3 (6.25%)
+Godawari College: 10 (27.78%)
+Mahendra Morang Adarsh Multiple Campus: 16 (22.22%)
+Birat Kshitiz College: 3 (8.33%)
+Nihareeka College: 12 (33.33%)
+Birat Multiple College: 12 (33.33%)
+Himalaya Darshan College: 10 (27.78%)
+National Infotech: 0 (0.00%)
+Hetauda City College: 19 (52.78%)
+Birendra Multiple Campus: 50 (69.44%)
+Chitwan College of Technology: 10 (27.78%)
+Lumbini ICT Campus: 30 (62.50%)
+Prithvi Narayan Campus: 45 (62.50%)
+Mount Annapurna Campus: 7 (19.44%)
+Soch College of IT: 9 (25.00%)
+Butwal Multiple Campus: 56 (77.78%)
+Lumbini City College: 12 (33.33%)
+Nepathya College: 27 (75.00%)
+Bhairahawa Multiple Campus: 9 (12.50%)
+Mahendra Multiple Campus, Nepalgunj: 8 (11.11%)
+Banke Bageshwori Campus, Nepalgunj: 4 (11.11%)
+Nepalgunj Campus: 1 (2.78%)
+Mahendra Multiple Campus, Dang: 5 (13.89%)
+Ambikeshwari Campus: 18 (50.00%)
